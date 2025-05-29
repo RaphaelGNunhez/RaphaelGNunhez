@@ -12,6 +12,8 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGNunhez&show_icons=true&theme=synthwave)
 
+ ![snake gif](https://github.com/RaphaelGNunhez/RaphaelGNunhez/blob/output/github-contribution-grid-snake.svg)
+
 <h2>📫 How to reach me:</h2>
 <a href="https://instagram.com/raphaelnunhez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:raphaelnunhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
