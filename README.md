@@ -9,6 +9,7 @@
 </div>
 
 <h2>📊 My stats:</h2>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGNunhez&show_icons=true&theme=synthwave)
 
 <h2>📫 How to reach me:</h2>
