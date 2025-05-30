@@ -38,6 +38,7 @@ Tools I’ve worked with during projects or academic studies.
   <img align="center" alt="Rapha-Eclipse" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Rapha-VisualStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img align="center" alt="Rapha-Firebase" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Rapha-Arduino" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 </div>
 
 ---
