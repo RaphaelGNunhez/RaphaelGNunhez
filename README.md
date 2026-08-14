@@ -28,17 +28,8 @@ Tools and technologies I’ve explored through studies, internships, and small d
   <img align="center" alt="Rapha-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rapha-Cplusplus" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-</div>
-
-### 🛠️ Tools & IDEs
-
-Tools I’ve worked with during projects or academic studies.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rapha-AndroidStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Rapha-Eclipse" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="Rapha-VisualStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-  <img align="center" alt="Rapha-Firebase" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  <img align="center" alt="Rapha-Arduino" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Raphael-JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 </div>
 
 ---
